@@ -11,22 +11,23 @@ The agricultural yield is dependent on annual and monthly rainfall. Thus rainfal
 
  Project Planning & Kickoff :
 ------------------------------
+```
 First we are going to study and survey what are the requirement steps and resources and also scope of that project. 
 		1. Requirement:
 		      i. Python 3.6  Environment
-			     ii. Python 3.6  Environment
+		      ii. Python 3.6  Environment
 		2. Python 3.6  Environment:
-			    i. Tensorflow 
-      ii. Tensorflow_cpu 
-      iii. Tensorflow_gpu 
-      iv. Scikit-Learn 
-      v. Scikit-Image
-      vi. Pandas
-      vii. Numpy
-      vii. Seaborn
-      viii. Scipy
-      ix. Matplotlib
-
+		      i. Tensorflow 
+		      ii. Tensorflow_cpu 
+		      iii. Tensorflow_gpu 
+		      iv. Scikit-Learn 
+		      v. Scikit-Image
+		      vi. Pandas
+		      vii. Numpy
+		      vii. Seaborn
+		      viii. Scipy
+		      ix. Matplotlib
+```
 
  Data Collection:
 ------------------
